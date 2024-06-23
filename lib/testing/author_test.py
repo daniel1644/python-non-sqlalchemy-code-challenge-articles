@@ -2,7 +2,7 @@ import pytest
 
 from classes.many_to_many import Article
 from classes.many_to_many import Magazine
-from classes.many_to_many import Author
+from classes.many_to_many import Author 
 
 
 class TestAuthor:
